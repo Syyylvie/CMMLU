@@ -48,7 +48,6 @@ The following table displays the performance of models in the five-shot and zero
 | [Qwen1.5-110B](https://modelscope.cn/models/qwen/Qwen1.5-110B)    |   81.59   |   92.41   |   89.14   |   91.19   |   89.02   |   88.32   |
 | [JIUTIAN-57B](https://jiutian.10086.cn/portal/common-helpcenter#/document/320?platformCode=LLM_STUDIO)  |   79.79   |   91.99   |   88.57   |   90.27   |   88.02   |   87.39   |
 | [Qwen2.5-72B](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct)   |   80.35   |   88.41   |   85.96   |   86.06   |   88.91   |   85.67   |
-| [Qwen3-1.7B](https://huggingface.co/Qwen/Qwen3-1.7B)   |   53.42   |   62.80   |   62.07   |   63.96   |   58.82   |   60.44   |
 | [Qwen1.5-72B](https://modelscope.cn/models/qwen/Qwen1.5-72B)      |   76.83   |   88.37   |   84.15   |   86.06   |   83.77   |   83.54   |
 | [PCI-TransGPT](http://123.249.36.167/call-frontend/#/transGpt)    |   76.85   |   86.46   |   81.65   |   84.57   |   82.85   |   82.46   |
 | [Qwen1.5-32B](https://modelscope.cn/models/qwen/Qwen1.5-32B)      |   76.25   |   86.31   |   83.42   |   83.82   |   82.84   |   82.25   |
@@ -57,6 +56,7 @@ The following table displays the performance of models in the five-shot and zero
 | [XuanYuan-70B](https://huggingface.co/Duxiaoman-DI/XuanYuan-70B)  |   60.74   |   77.79   |   75.47   |   70.81   |   70.92   |   71.10   |
 | [GPT4](https://openai.com/gpt4)                                   |   65.23   |   72.11   |   72.06   |   74.79   |   66.12   |   70.95   |
 | [Llama-3.1-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3.1-70B-Instruct)  |   55.05   |   66.62   |   66.08   |   70.50   |   61.65   |   64.38   |
+| [Qwen3-1.7B](https://huggingface.co/Qwen/Qwen3-1.7B)   |   53.42   |   62.80   |   62.07   |   63.96   |   58.82   |   60.44   |
 | [XuanYuan-13B](https://github.com/Duxiaoman-DI/XuanYuan)          |   50.07   |   66.32	|   64.11	|   59.99	|   60.55   |   60.05   |
 | [Qwen-7B](https://github.com/QwenLM/Qwen-7B)                      |   48.39   |   63.77   |   61.22   |   62.14   |   58.73   |   58.66   |
 | [ZhiLu-13B](https://github.com/SYSU-MUCFC-FinTech-Research-Center/ZhiLu)   |   44.26   |   61.54   |   60.25   |   61.14   |   57.14   |   57.16   |
@@ -98,7 +98,6 @@ The following table displays the performance of models in the five-shot and zero
 | [Qwen1.5-110B](https://modelscope.cn/models/qwen/Qwen1.5-110B)    |   80.84   |   91.51   |   89.01   |   89.99   |   88.64   |   87.64   |
 | [Qwen2-72B](https://huggingface.co/Qwen/Qwen2-72B-Instruct)       |   80.92   |   90.90   |   87.93   |   91.23   |   87.24   |   87.47   |
 | [Qwen2.5-72B](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct)   |   80.67   |   87.00   |   84.66  |    87.35   |   83.21  |    84.70   |
-| [Qwen3-1.7B](https://huggingface.co/Qwen/Qwen3-1.7B)   |   49.68   |   58.32   |   59.42   |   61.07   |   55.74   |   57.11   |
 | [PCI-TransGPT](http://123.249.36.167/call-frontend/#/transGpt)    |   76.69   |   86.26   |   81.71   |   84.47   |   83.13   |   82.44   |
 | [Qwen1.5-72B](https://modelscope.cn/models/qwen/Qwen1.5-72B)      |   75.07   |   86.15   |   83.06   |   83.84   |   82.78   |   81.81   |
 | [Qwen1.5-32B](https://modelscope.cn/models/qwen/Qwen1.5-32B)      |   74.82   |   85.13   |   82.49   |   84.34   |   82.47   |   81.47   |
@@ -111,6 +110,7 @@ The following table displays the performance of models in the five-shot and zero
 | [XuanYuan-13B](https://github.com/Duxiaoman-DI/XuanYuan)          |   50.22   |  	67.55   |   63.85	|   61.17	|   61.50	|   60.51   |
 | [Qwen-7B](https://github.com/QwenLM/Qwen-7B)                      |   46.33   |   62.54   |   60.48   |   61.72   |   58.77   |   57.57   |
 | [ZhiLu-13B](https://github.com/SYSU-MUCFC-FinTech-Research-Center/ZhiLu)  |   43.53   |   61.60   |   61.40   |   60.15   |   58.97   |   57.14   |
+| [Qwen3-1.7B](https://huggingface.co/Qwen/Qwen3-1.7B)   |   49.68   |   58.32   |   59.42   |   61.07   |   55.74   |   57.11   |
 | [ChatGPT](https://openai.com/chatgpt)                             |   44.80   |   53.61   |   54.22   |   59.95   |   49.74   |   53.22   |
 | [Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)      |   42.04   |   60.49   |   59.55   |   56.60   |   55.72   |   54.63   |
 | [ChatGLM2-6B](https://huggingface.co/THUDM/chatglm2-6b)           |   41.28   |   52.85   |   53.37   |   52.24   |   50.58   |   49.95   |
